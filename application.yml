@@ -1,3 +1,5 @@
+app:
+  greeting: Hello from config file on github
 eureka:
   client:
     service-url:
